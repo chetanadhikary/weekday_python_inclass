@@ -1,0 +1,1 @@
+grade_in = input('Enter your grade between 0.0 and 1.0')
