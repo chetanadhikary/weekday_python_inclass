@@ -49,5 +49,5 @@ if __name__ == '__main__':
         print(sub_num(a,b))
     elif choice.upper() == 'M':
         print(mul_num(a,b))
-             
+
      
